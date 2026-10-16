@@ -1,0 +1,9 @@
+provider,title,price,currency,offer_url,valid_until,source_url,fetched_at
+Hostinger,KVM 1,6.49,USD,https://www.hostinger.com/vps-hosting,2027-10-15,https://www.hostinger.com/vps-hosting,2026-10-16T00:59:05Z
+Hostinger,KVM 2,8.99,USD,https://www.hostinger.com/vps-hosting,2027-10-15,https://www.hostinger.com/vps-hosting,2026-10-16T00:59:05Z
+Hostinger,KVM 4,12.99,USD,https://www.hostinger.com/vps-hosting,2027-10-15,https://www.hostinger.com/vps-hosting,2026-10-16T00:59:05Z
+Hostinger,KVM 8,25.99,USD,https://www.hostinger.com/vps-hosting,2027-10-15,https://www.hostinger.com/vps-hosting,2026-10-16T00:59:05Z
+IONOS,VPS S+ (3-month promotion),2,USD,https://www.ionos.com/servers/cheap-vps,,https://www.ionos.com/servers/cheap-vps,2026-10-16T00:59:05Z
+IONOS,VPS M+ (3-month promotion),5,USD,https://www.ionos.com/servers/cheap-vps,,https://www.ionos.com/servers/cheap-vps,2026-10-16T00:59:05Z
+IONOS,VPS L+ (3-month promotion),8,USD,https://www.ionos.com/servers/cheap-vps,,https://www.ionos.com/servers/cheap-vps,2026-10-16T00:59:05Z
+IONOS,VPS XL+ (3-month promotion),14,USD,https://www.ionos.com/servers/cheap-vps,,https://www.ionos.com/servers/cheap-vps,2026-10-16T00:59:05Z
